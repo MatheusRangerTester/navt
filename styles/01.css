@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding: 0;
+    background-color: grey;
 }
 
 h2,
@@ -18,7 +19,7 @@ ul {
 
 ul li a {
     display: block;
-    color: white;
+    color: rgb(253, 125, 4);
     padding: 14px 16px;
     text-decoration: none;
 }
